@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSlopeHalf.obj-f549023050f82ba78feb9a02c1b593ba.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSlopeHalf.obj-f549023050f82ba78feb9a02c1b593ba.mesh" ]
+
+source_file="res://Assets/platformerkit/Models/OBJ format/blockSlopeHalf.obj"
+dest_files=[ "res://.import/blockSlopeHalf.obj-f549023050f82ba78feb9a02c1b593ba.mesh", "res://.import/blockSlopeHalf.obj-f549023050f82ba78feb9a02c1b593ba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

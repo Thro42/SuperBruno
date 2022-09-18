@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridgeHalf.obj-001e97230b48c65e5855afb84c33b111.mesh"
+
+[deps]
+
+files=[ "res://.import/bridgeHalf.obj-001e97230b48c65e5855afb84c33b111.mesh" ]
+
+source_file="res://Assets/platformerkit/Models/OBJ format/bridgeHalf.obj"
+dest_files=[ "res://.import/bridgeHalf.obj-001e97230b48c65e5855afb84c33b111.mesh", "res://.import/bridgeHalf.obj-001e97230b48c65e5855afb84c33b111.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

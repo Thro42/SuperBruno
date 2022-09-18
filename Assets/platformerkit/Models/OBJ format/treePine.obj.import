@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treePine.obj-5e1392b6981b9173ee57de0d5a6ceeeb.mesh"
+
+[deps]
+
+files=[ "res://.import/treePine.obj-5e1392b6981b9173ee57de0d5a6ceeeb.mesh" ]
+
+source_file="res://Assets/platformerkit/Models/OBJ format/treePine.obj"
+dest_files=[ "res://.import/treePine.obj-5e1392b6981b9173ee57de0d5a6ceeeb.mesh", "res://.import/treePine.obj-5e1392b6981b9173ee57de0d5a6ceeeb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

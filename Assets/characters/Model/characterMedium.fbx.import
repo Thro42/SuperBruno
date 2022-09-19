@@ -11,7 +11,7 @@ dest_files=[ "res://.import/characterMedium.fbx-3313c70e0c1af3bdb2cbfee834f5ae02
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="KinematicBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

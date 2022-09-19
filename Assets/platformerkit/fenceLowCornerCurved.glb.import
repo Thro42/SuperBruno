@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fenceLowCornerCurved.glb-e8b7ce94ac223c635e4de4b0257575fd.scn"
+path="res://.import/fenceLowCornerCurved.glb-901214d0042fd8c68d43f0fee2715403.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/fenceLowCornerCurved.glb"
-dest_files=[ "res://.import/fenceLowCornerCurved.glb-e8b7ce94ac223c635e4de4b0257575fd.scn" ]
+source_file="res://Assets/platformerkit/fenceLowCornerCurved.glb"
+dest_files=[ "res://.import/fenceLowCornerCurved.glb-901214d0042fd8c68d43f0fee2715403.scn" ]
 
 [params]
 

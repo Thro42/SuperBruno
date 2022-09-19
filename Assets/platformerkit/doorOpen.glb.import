@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/doorOpen.glb-38d3c8cf7b625053f5b1d46f8c4e13dc.scn"
+path="res://.import/doorOpen.glb-8dfa1959677d508b6c8c3941aa6eb78e.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/doorOpen.glb"
-dest_files=[ "res://.import/doorOpen.glb-38d3c8cf7b625053f5b1d46f8c4e13dc.scn" ]
+source_file="res://Assets/platformerkit/doorOpen.glb"
+dest_files=[ "res://.import/doorOpen.glb-8dfa1959677d508b6c8c3941aa6eb78e.scn" ]
 
 [params]
 

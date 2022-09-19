@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/coinBronze.glb-4d399ae23d86f757415ef57eec4f66ba.scn"
+path="res://.import/coinBronze.glb-3aea2047dbc2a04cc455c7f70fe2bed3.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/coinBronze.glb"
-dest_files=[ "res://.import/coinBronze.glb-4d399ae23d86f757415ef57eec4f66ba.scn" ]
+source_file="res://Assets/platformerkit/coinBronze.glb"
+dest_files=[ "res://.import/coinBronze.glb-3aea2047dbc2a04cc455c7f70fe2bed3.scn" ]
 
 [params]
 

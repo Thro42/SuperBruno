@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/spikesLarge.glb-37124526f3e1c3f0192b2a10054522f3.scn"
+path="res://.import/spikesLarge.glb-ef73606ff7c55c5fd67769311255bfb0.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/spikesLarge.glb"
-dest_files=[ "res://.import/spikesLarge.glb-37124526f3e1c3f0192b2a10054522f3.scn" ]
+source_file="res://Assets/platformerkit/spikesLarge.glb"
+dest_files=[ "res://.import/spikesLarge.glb-ef73606ff7c55c5fd67769311255bfb0.scn" ]
 
 [params]
 

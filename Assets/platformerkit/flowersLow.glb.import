@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/flowersLow.glb-06474ef1262bd8f9db0c0bc694339851.scn"
+path="res://.import/flowersLow.glb-373b9a863aa655a4aa85ecaa8a7cb54c.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/flowersLow.glb"
-dest_files=[ "res://.import/flowersLow.glb-06474ef1262bd8f9db0c0bc694339851.scn" ]
+source_file="res://Assets/platformerkit/flowersLow.glb"
+dest_files=[ "res://.import/flowersLow.glb-373b9a863aa655a4aa85ecaa8a7cb54c.scn" ]
 
 [params]
 

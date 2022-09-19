@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockCornerLarge.glb-b906e7da124d6e46730337b5da4983d5.scn"
+path="res://.import/blockCornerLarge.glb-5e67b9c708306a366af60ef07b8cd899.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockCornerLarge.glb"
-dest_files=[ "res://.import/blockCornerLarge.glb-b906e7da124d6e46730337b5da4983d5.scn" ]
+source_file="res://Assets/platformerkit/blockCornerLarge.glb"
+dest_files=[ "res://.import/blockCornerLarge.glb-5e67b9c708306a366af60ef07b8cd899.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockSlope.glb-fef6c5bdd739615609c726ff7c46f678.scn"
+path="res://.import/blockSlope.glb-1415782467faee3d19e2b1eba0bf03bc.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockSlope.glb"
-dest_files=[ "res://.import/blockSlope.glb-fef6c5bdd739615609c726ff7c46f678.scn" ]
+source_file="res://Assets/platformerkit/blockSlope.glb"
+dest_files=[ "res://.import/blockSlope.glb-1415782467faee3d19e2b1eba0bf03bc.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

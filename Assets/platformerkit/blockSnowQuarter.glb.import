@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockSnowQuarter.glb-def5c3531b43e7f77558cad45b538088.scn"
+path="res://.import/blockSnowQuarter.glb-dee3ba065caaaee836a8578b0960e78f.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockSnowQuarter.glb"
-dest_files=[ "res://.import/blockSnowQuarter.glb-def5c3531b43e7f77558cad45b538088.scn" ]
+source_file="res://Assets/platformerkit/blockSnowQuarter.glb"
+dest_files=[ "res://.import/blockSnowQuarter.glb-dee3ba065caaaee836a8578b0960e78f.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

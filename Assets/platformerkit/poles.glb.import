@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/poles.glb-b1eb09b5df04fdbea65c8071921426ab.scn"
+path="res://.import/poles.glb-e7e1929bc908a93a7779d836cf994324.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/poles.glb"
-dest_files=[ "res://.import/poles.glb-b1eb09b5df04fdbea65c8071921426ab.scn" ]
+source_file="res://Assets/platformerkit/poles.glb"
+dest_files=[ "res://.import/poles.glb-e7e1929bc908a93a7779d836cf994324.scn" ]
 
 [params]
 

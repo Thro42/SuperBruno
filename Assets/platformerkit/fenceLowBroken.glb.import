@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fenceLowBroken.glb-0e7b6eef3d577965b92fe203e354ac45.scn"
+path="res://.import/fenceLowBroken.glb-244d7bc8f8b69612df6d207e711a72d0.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/fenceLowBroken.glb"
-dest_files=[ "res://.import/fenceLowBroken.glb-0e7b6eef3d577965b92fe203e354ac45.scn" ]
+source_file="res://Assets/platformerkit/fenceLowBroken.glb"
+dest_files=[ "res://.import/fenceLowBroken.glb-244d7bc8f8b69612df6d207e711a72d0.scn" ]
 
 [params]
 

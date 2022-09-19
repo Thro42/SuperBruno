@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bridge.glb-0505d369ce0c881bd4f9ca056c4160da.scn"
+path="res://.import/bridge.glb-dfbb92e8fca6376124d66f3c88a60034.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/bridge.glb"
-dest_files=[ "res://.import/bridge.glb-0505d369ce0c881bd4f9ca056c4160da.scn" ]
+source_file="res://Assets/platformerkit/bridge.glb"
+dest_files=[ "res://.import/bridge.glb-dfbb92e8fca6376124d66f3c88a60034.scn" ]
 
 [params]
 

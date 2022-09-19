@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fish.glb-b776c5292d53a0f549f7225fa25de411.scn"
+path="res://.import/fish.glb-12a97f4b10c0035e141bfd8d27da40fc.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/fish.glb"
-dest_files=[ "res://.import/fish.glb-b776c5292d53a0f549f7225fa25de411.scn" ]
+source_file="res://Assets/survival-kit/fish.glb"
+dest_files=[ "res://.import/fish.glb-12a97f4b10c0035e141bfd8d27da40fc.scn" ]
 
 [params]
 

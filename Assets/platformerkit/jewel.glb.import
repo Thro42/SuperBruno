@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/jewel.glb-e9bd7f3dfbecf2e8853350068eaf8084.scn"
+path="res://.import/jewel.glb-efbcccab2b146945caab3fbcaa629eef.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/jewel.glb"
-dest_files=[ "res://.import/jewel.glb-e9bd7f3dfbecf2e8853350068eaf8084.scn" ]
+source_file="res://Assets/platformerkit/jewel.glb"
+dest_files=[ "res://.import/jewel.glb-efbcccab2b146945caab3fbcaa629eef.scn" ]
 
 [params]
 

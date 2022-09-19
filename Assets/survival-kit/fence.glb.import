@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/fence.glb-2dbcdf90e4284db1f63d272c0e87f334.scn"
+path="res://.import/fence.glb-14476ca970c3aaac8c19aa48ff1a5b32.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/fence.glb"
-dest_files=[ "res://.import/fence.glb-2dbcdf90e4284db1f63d272c0e87f334.scn" ]
+source_file="res://Assets/survival-kit/fence.glb"
+dest_files=[ "res://.import/fence.glb-14476ca970c3aaac8c19aa48ff1a5b32.scn" ]
 
 [params]
 

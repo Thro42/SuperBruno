@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockSnowCliff.glb-ba7cabfe52d4ef35f8702f04ea6928e4.scn"
+path="res://.import/blockSnowCliff.glb-9a06222f5ed8cf66988d446c7a75d5fd.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockSnowCliff.glb"
-dest_files=[ "res://.import/blockSnowCliff.glb-ba7cabfe52d4ef35f8702f04ea6928e4.scn" ]
+source_file="res://Assets/platformerkit/blockSnowCliff.glb"
+dest_files=[ "res://.import/blockSnowCliff.glb-9a06222f5ed8cf66988d446c7a75d5fd.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockSnowHexagon.glb-4fb5e387d372a97ecbb8111045b86d72.scn"
+path="res://.import/blockSnowHexagon.glb-83ae50ea18c18b1951d365a1d24aab6e.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockSnowHexagon.glb"
-dest_files=[ "res://.import/blockSnowHexagon.glb-4fb5e387d372a97ecbb8111045b86d72.scn" ]
+source_file="res://Assets/platformerkit/blockSnowHexagon.glb"
+dest_files=[ "res://.import/blockSnowHexagon.glb-83ae50ea18c18b1951d365a1d24aab6e.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

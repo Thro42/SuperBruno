@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tree.glb-8f540b26600faf850d5721b1dc3dc0e0.scn"
+path="res://.import/tree.glb-0da62d5e9e50f6bd15ec79abddd84a49.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/tree.glb"
-dest_files=[ "res://.import/tree.glb-8f540b26600faf850d5721b1dc3dc0e0.scn" ]
+source_file="res://Assets/survival-kit/tree.glb"
+dest_files=[ "res://.import/tree.glb-0da62d5e9e50f6bd15ec79abddd84a49.scn" ]
 
 [params]
 

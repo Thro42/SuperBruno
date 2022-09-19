@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/barrel.glb-7bbf6292f3dd226517530b2204741b9b.scn"
+path="res://.import/barrel.glb-9197d18b8343280d6bd15e98d64a94bd.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/barrel.glb"
-dest_files=[ "res://.import/barrel.glb-7bbf6292f3dd226517530b2204741b9b.scn" ]
+source_file="res://Assets/survival-kit/barrel.glb"
+dest_files=[ "res://.import/barrel.glb-9197d18b8343280d6bd15e98d64a94bd.scn" ]
 
 [params]
 

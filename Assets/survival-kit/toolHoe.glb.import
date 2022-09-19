@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toolHoe.glb-50408a83177965a745a23fcefdfb9032.scn"
+path="res://.import/toolHoe.glb-05decfb0fde24e5a8a6e280ecbe4da37.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/toolHoe.glb"
-dest_files=[ "res://.import/toolHoe.glb-50408a83177965a745a23fcefdfb9032.scn" ]
+source_file="res://Assets/survival-kit/toolHoe.glb"
+dest_files=[ "res://.import/toolHoe.glb-05decfb0fde24e5a8a6e280ecbe4da37.scn" ]
 
 [params]
 

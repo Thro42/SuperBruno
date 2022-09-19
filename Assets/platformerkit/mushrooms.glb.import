@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/mushrooms.glb-67d8a651829e01d3ccf129a941a22ccf.scn"
+path="res://.import/mushrooms.glb-f9c5ca9d601bfdf47ea44b43ab09aca2.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/mushrooms.glb"
-dest_files=[ "res://.import/mushrooms.glb-67d8a651829e01d3ccf129a941a22ccf.scn" ]
+source_file="res://Assets/platformerkit/mushrooms.glb"
+dest_files=[ "res://.import/mushrooms.glb-f9c5ca9d601bfdf47ea44b43ab09aca2.scn" ]
 
 [params]
 

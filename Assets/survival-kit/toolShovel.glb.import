@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/toolShovel.glb-dff4192eea5cd24a455df3022f5f79bb.scn"
+path="res://.import/toolShovel.glb-f890def478bfff6250e91ef9b93f6815.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/toolShovel.glb"
-dest_files=[ "res://.import/toolShovel.glb-dff4192eea5cd24a455df3022f5f79bb.scn" ]
+source_file="res://Assets/survival-kit/toolShovel.glb"
+dest_files=[ "res://.import/toolShovel.glb-f890def478bfff6250e91ef9b93f6815.scn" ]
 
 [params]
 

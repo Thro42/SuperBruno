@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockCliff.glb-b0abc1300812745136296629abd5c332.scn"
+path="res://.import/blockCliff.glb-0b1acb5b35814f2ff8afa54bf49f3cf6.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockCliff.glb"
-dest_files=[ "res://.import/blockCliff.glb-b0abc1300812745136296629abd5c332.scn" ]
+source_file="res://Assets/platformerkit/blockCliff.glb"
+dest_files=[ "res://.import/blockCliff.glb-0b1acb5b35814f2ff8afa54bf49f3cf6.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

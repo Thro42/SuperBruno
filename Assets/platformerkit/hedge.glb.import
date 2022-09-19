@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/hedge.glb-f66481019e555e5671c966f11d529789.scn"
+path="res://.import/hedge.glb-a6555ec3add8fa259be869f284553715.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/hedge.glb"
-dest_files=[ "res://.import/hedge.glb-f66481019e555e5671c966f11d529789.scn" ]
+source_file="res://Assets/platformerkit/hedge.glb"
+dest_files=[ "res://.import/hedge.glb-a6555ec3add8fa259be869f284553715.scn" ]
 
 [params]
 

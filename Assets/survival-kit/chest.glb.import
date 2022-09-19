@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chest.glb-4e95907c3ad0fca11d680138203b5818.scn"
+path="res://.import/chest.glb-7c8238cef43c5dd865e77cafb1a5a848.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/chest.glb"
-dest_files=[ "res://.import/chest.glb-4e95907c3ad0fca11d680138203b5818.scn" ]
+source_file="res://Assets/survival-kit/chest.glb"
+dest_files=[ "res://.import/chest.glb-7c8238cef43c5dd865e77cafb1a5a848.scn" ]
 
 [params]
 

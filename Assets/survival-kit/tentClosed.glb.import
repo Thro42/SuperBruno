@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/tentClosed.glb-5f0257ce292b36a85674bc61e12fef06.scn"
+path="res://.import/tentClosed.glb-03b3802d87a24eac396d284a75855cce.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/tentClosed.glb"
-dest_files=[ "res://.import/tentClosed.glb-5f0257ce292b36a85674bc61e12fef06.scn" ]
+source_file="res://Assets/survival-kit/tentClosed.glb"
+dest_files=[ "res://.import/tentClosed.glb-03b3802d87a24eac396d284a75855cce.scn" ]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockDirtHalf.glb-0223dc3206d10fae45fd26d758495d26.scn"
+path="res://.import/blockDirtHalf.glb-d382bb8083cc3b260626c13332639dbb.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockDirtHalf.glb"
-dest_files=[ "res://.import/blockDirtHalf.glb-0223dc3206d10fae45fd26d758495d26.scn" ]
+source_file="res://Assets/platformerkit/blockDirtHalf.glb"
+dest_files=[ "res://.import/blockDirtHalf.glb-d382bb8083cc3b260626c13332639dbb.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

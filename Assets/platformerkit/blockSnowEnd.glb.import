@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockSnowEnd.glb-a15abd9312c58f0cb6f0d9a13c844324.scn"
+path="res://.import/blockSnowEnd.glb-013fda5d1f66964cd002d63833f449d4.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockSnowEnd.glb"
-dest_files=[ "res://.import/blockSnowEnd.glb-a15abd9312c58f0cb6f0d9a13c844324.scn" ]
+source_file="res://Assets/platformerkit/blockSnowEnd.glb"
+dest_files=[ "res://.import/blockSnowEnd.glb-013fda5d1f66964cd002d63833f449d4.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/chest.glb-a1a8ad5485dda952b9fc890f7a79a717.scn"
+path="res://.import/chest.glb-28b7a36aeaa1bb42c2a6ca8aad36de9f.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/chest.glb"
-dest_files=[ "res://.import/chest.glb-a1a8ad5485dda952b9fc890f7a79a717.scn" ]
+source_file="res://Assets/platformerkit/chest.glb"
+dest_files=[ "res://.import/chest.glb-28b7a36aeaa1bb42c2a6ca8aad36de9f.scn" ]
 
 [params]
 

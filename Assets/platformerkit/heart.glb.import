@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/heart.glb-ae2c437f44a4f098050aa6e42ffdbeb9.scn"
+path="res://.import/heart.glb-9645aeba01600337a733356206ef9dbd.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/heart.glb"
-dest_files=[ "res://.import/heart.glb-ae2c437f44a4f098050aa6e42ffdbeb9.scn" ]
+source_file="res://Assets/platformerkit/heart.glb"
+dest_files=[ "res://.import/heart.glb-9645aeba01600337a733356206ef9dbd.scn" ]
 
 [params]
 

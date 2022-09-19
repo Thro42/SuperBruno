@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbenchAnvil.glb-8f6dbe3aecfc19a4d19a26f6c63fceab.scn"
+path="res://.import/workbenchAnvil.glb-f34e5c590c37878918a097af83959526.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/workbenchAnvil.glb"
-dest_files=[ "res://.import/workbenchAnvil.glb-8f6dbe3aecfc19a4d19a26f6c63fceab.scn" ]
+source_file="res://Assets/survival-kit/workbenchAnvil.glb"
+dest_files=[ "res://.import/workbenchAnvil.glb-f34e5c590c37878918a097af83959526.scn" ]
 
 [params]
 

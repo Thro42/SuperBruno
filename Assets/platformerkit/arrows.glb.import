@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/arrows.glb-22a7aac2dcaaf760027f3dd145a9f79f.scn"
+path="res://.import/arrows.glb-df4433f41cbec37b6fd59cac1e564c6f.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/arrows.glb"
-dest_files=[ "res://.import/arrows.glb-22a7aac2dcaaf760027f3dd145a9f79f.scn" ]
+source_file="res://Assets/platformerkit/arrows.glb"
+dest_files=[ "res://.import/arrows.glb-df4433f41cbec37b6fd59cac1e564c6f.scn" ]
 
 [params]
 

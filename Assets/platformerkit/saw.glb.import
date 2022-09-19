@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/saw.glb-a4b6d73e611eb5832f9200d6da571f43.scn"
+path="res://.import/saw.glb-982732c0dc4ab02c3b4952e2a7e59884.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/saw.glb"
-dest_files=[ "res://.import/saw.glb-a4b6d73e611eb5832f9200d6da571f43.scn" ]
+source_file="res://Assets/platformerkit/saw.glb"
+dest_files=[ "res://.import/saw.glb-982732c0dc4ab02c3b4952e2a7e59884.scn" ]
 
 [params]
 

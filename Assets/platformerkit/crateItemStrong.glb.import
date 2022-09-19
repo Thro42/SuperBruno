@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/crateItemStrong.glb-46d98b54795e421300fa472aa5ea3c2b.scn"
+path="res://.import/crateItemStrong.glb-e35f5dd27c09fefef7de827f1925e743.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/crateItemStrong.glb"
-dest_files=[ "res://.import/crateItemStrong.glb-46d98b54795e421300fa472aa5ea3c2b.scn" ]
+source_file="res://Assets/platformerkit/crateItemStrong.glb"
+dest_files=[ "res://.import/crateItemStrong.glb-e35f5dd27c09fefef7de827f1925e743.scn" ]
 
 [params]
 

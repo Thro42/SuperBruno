@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/coinGold.glb-dcfbca2770d736344eb58f653eeb4388.scn"
+path="res://.import/coinGold.glb-54e0e24096c2f32ebf60df887635d424.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/coinGold.glb"
-dest_files=[ "res://.import/coinGold.glb-dcfbca2770d736344eb58f653eeb4388.scn" ]
+source_file="res://Assets/platformerkit/coinGold.glb"
+dest_files=[ "res://.import/coinGold.glb-54e0e24096c2f32ebf60df887635d424.scn" ]
 
 [params]
 

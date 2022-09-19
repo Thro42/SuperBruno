@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/ladder.glb-89b442eecf3653bec20023ab060fff46.scn"
+path="res://.import/ladder.glb-cdb098a5f37e34e94bcce548e1f142ac.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/ladder.glb"
-dest_files=[ "res://.import/ladder.glb-89b442eecf3653bec20023ab060fff46.scn" ]
+source_file="res://Assets/platformerkit/ladder.glb"
+dest_files=[ "res://.import/ladder.glb-cdb098a5f37e34e94bcce548e1f142ac.scn" ]
 
 [params]
 

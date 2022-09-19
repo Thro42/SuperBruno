@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockSnowCurveHalf.glb-1328cdd05552f85f8bb9c16d33d61b58.scn"
+path="res://.import/blockSnowCurveHalf.glb-a412344aacc67aa4b134e6a244fcdee6.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockSnowCurveHalf.glb"
-dest_files=[ "res://.import/blockSnowCurveHalf.glb-1328cdd05552f85f8bb9c16d33d61b58.scn" ]
+source_file="res://Assets/platformerkit/blockSnowCurveHalf.glb"
+dest_files=[ "res://.import/blockSnowCurveHalf.glb-a412344aacc67aa4b134e6a244fcdee6.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

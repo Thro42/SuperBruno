@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/resourceWood.glb-170130600fff9ac3a54f4df7b0d9483a.scn"
+path="res://.import/resourceWood.glb-8b3438c74ddad6a0e7ec2356c06123c9.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/resourceWood.glb"
-dest_files=[ "res://.import/resourceWood.glb-170130600fff9ac3a54f4df7b0d9483a.scn" ]
+source_file="res://Assets/survival-kit/resourceWood.glb"
+dest_files=[ "res://.import/resourceWood.glb-8b3438c74ddad6a0e7ec2356c06123c9.scn" ]
 
 [params]
 

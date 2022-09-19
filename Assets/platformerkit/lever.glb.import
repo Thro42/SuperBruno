@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lever.glb-db873ec52e76327d6fabe51cdfea8df0.scn"
+path="res://.import/lever.glb-dc405c15197a85ff15cfed922fe1c2a9.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/lever.glb"
-dest_files=[ "res://.import/lever.glb-db873ec52e76327d6fabe51cdfea8df0.scn" ]
+source_file="res://Assets/platformerkit/lever.glb"
+dest_files=[ "res://.import/lever.glb-dc405c15197a85ff15cfed922fe1c2a9.scn" ]
 
 [params]
 

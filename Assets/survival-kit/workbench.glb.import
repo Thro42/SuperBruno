@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/workbench.glb-03ac19ffc6f36c7192f7a9adb9b45bb9.scn"
+path="res://.import/workbench.glb-c8f0f3ee30e07890820edeb0fd3c6509.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/workbench.glb"
-dest_files=[ "res://.import/workbench.glb-03ac19ffc6f36c7192f7a9adb9b45bb9.scn" ]
+source_file="res://Assets/survival-kit/workbench.glb"
+dest_files=[ "res://.import/workbench.glb-c8f0f3ee30e07890820edeb0fd3c6509.scn" ]
 
 [params]
 

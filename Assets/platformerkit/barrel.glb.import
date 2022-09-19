@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/barrel.glb-c66a4a1f08d3fc4e76b48e0bfee4c292.scn"
+path="res://.import/barrel.glb-ebebb0949cb27746b083c155a1634789.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/barrel.glb"
-dest_files=[ "res://.import/barrel.glb-c66a4a1f08d3fc4e76b48e0bfee4c292.scn" ]
+source_file="res://Assets/platformerkit/barrel.glb"
+dest_files=[ "res://.import/barrel.glb-ebebb0949cb27746b083c155a1634789.scn" ]
 
 [params]
 

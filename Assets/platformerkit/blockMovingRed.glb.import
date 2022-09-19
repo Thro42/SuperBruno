@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockMovingRed.glb-f68d96a24149c53a6b02fcbea2491dad.scn"
+path="res://.import/blockMovingRed.glb-32093ea370189fe9a5fce9fe833cb618.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockMovingRed.glb"
-dest_files=[ "res://.import/blockMovingRed.glb-f68d96a24149c53a6b02fcbea2491dad.scn" ]
+source_file="res://Assets/platformerkit/blockMovingRed.glb"
+dest_files=[ "res://.import/blockMovingRed.glb-32093ea370189fe9a5fce9fe833cb618.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treePineSmall.glb-8f1ce368fb6ee48e054fe387be30d338.scn"
+path="res://.import/treePineSmall.glb-0f8106f7238d4c67fa656936c73cfc43.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/treePineSmall.glb"
-dest_files=[ "res://.import/treePineSmall.glb-8f1ce368fb6ee48e054fe387be30d338.scn" ]
+source_file="res://Assets/platformerkit/treePineSmall.glb"
+dest_files=[ "res://.import/treePineSmall.glb-0f8106f7238d4c67fa656936c73cfc43.scn" ]
 
 [params]
 

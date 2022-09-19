@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/key.glb-ceb5f8bbfa7cabad8eb73c71c06b875c.scn"
+path="res://.import/key.glb-fd442549797a593f659813529d5523e2.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/key.glb"
-dest_files=[ "res://.import/key.glb-ceb5f8bbfa7cabad8eb73c71c06b875c.scn" ]
+source_file="res://Assets/platformerkit/key.glb"
+dest_files=[ "res://.import/key.glb-fd442549797a593f659813529d5523e2.scn" ]
 
 [params]
 

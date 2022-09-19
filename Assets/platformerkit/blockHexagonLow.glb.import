@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockHexagonLow.glb-85f67438d20721e0dea97529ffdfead2.scn"
+path="res://.import/blockHexagonLow.glb-045ecbfeb4ac24d1fadf7123dac0801e.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockHexagonLow.glb"
-dest_files=[ "res://.import/blockHexagonLow.glb-85f67438d20721e0dea97529ffdfead2.scn" ]
+source_file="res://Assets/platformerkit/blockHexagonLow.glb"
+dest_files=[ "res://.import/blockHexagonLow.glb-045ecbfeb4ac24d1fadf7123dac0801e.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

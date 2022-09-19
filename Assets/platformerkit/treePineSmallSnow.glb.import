@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treePineSmallSnow.glb-bab42db6292c38e9653a68c925eecd61.scn"
+path="res://.import/treePineSmallSnow.glb-3379a345ae31a8b240b0c66fef9a8144.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/treePineSmallSnow.glb"
-dest_files=[ "res://.import/treePineSmallSnow.glb-bab42db6292c38e9653a68c925eecd61.scn" ]
+source_file="res://Assets/platformerkit/treePineSmallSnow.glb"
+dest_files=[ "res://.import/treePineSmallSnow.glb-3379a345ae31a8b240b0c66fef9a8144.scn" ]
 
 [params]
 

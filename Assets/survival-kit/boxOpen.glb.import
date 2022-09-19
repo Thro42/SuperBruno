@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/boxOpen.glb-d754b20fbd1b8c1b8ea7da8c163b18db.scn"
+path="res://.import/boxOpen.glb-21818865781656785a5a2e50be73e3a3.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/boxOpen.glb"
-dest_files=[ "res://.import/boxOpen.glb-d754b20fbd1b8c1b8ea7da8c163b18db.scn" ]
+source_file="res://Assets/survival-kit/boxOpen.glb"
+dest_files=[ "res://.import/boxOpen.glb-21818865781656785a5a2e50be73e3a3.scn" ]
 
 [params]
 

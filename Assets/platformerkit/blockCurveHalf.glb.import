@@ -2,16 +2,16 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/blockCurveHalf.glb-febb32e5f67b171190f42f913ae5d852.scn"
+path="res://.import/blockCurveHalf.glb-b2a4e6bfe1f8df934bbeaba94bfe00fa.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/blockCurveHalf.glb"
-dest_files=[ "res://.import/blockCurveHalf.glb-febb32e5f67b171190f42f913ae5d852.scn" ]
+source_file="res://Assets/platformerkit/blockCurveHalf.glb"
+dest_files=[ "res://.import/blockCurveHalf.glb-b2a4e6bfe1f8df934bbeaba94bfe00fa.scn" ]
 
 [params]
 
-nodes/root_type="Spatial"
+nodes/root_type="StaticBody"
 nodes/root_name="Scene Root"
 nodes/root_scale=1.0
 nodes/custom_script=""

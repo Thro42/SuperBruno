@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/signpost.glb-78e52a48f8cc32350ad83023da168b30.scn"
+path="res://.import/signpost.glb-9fd897359b8134785bbebd2667afb856.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/signpost.glb"
-dest_files=[ "res://.import/signpost.glb-78e52a48f8cc32350ad83023da168b30.scn" ]
+source_file="res://Assets/survival-kit/signpost.glb"
+dest_files=[ "res://.import/signpost.glb-9fd897359b8134785bbebd2667afb856.scn" ]
 
 [params]
 

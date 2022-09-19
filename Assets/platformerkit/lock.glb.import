@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/lock.glb-fe70c85b75b157e541a2cb4523a91d66.scn"
+path="res://.import/lock.glb-7ce804d929d711b156bd948b1ed43eef.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/lock.glb"
-dest_files=[ "res://.import/lock.glb-fe70c85b75b157e541a2cb4523a91d66.scn" ]
+source_file="res://Assets/platformerkit/lock.glb"
+dest_files=[ "res://.import/lock.glb-7ce804d929d711b156bd948b1ed43eef.scn" ]
 
 [params]
 

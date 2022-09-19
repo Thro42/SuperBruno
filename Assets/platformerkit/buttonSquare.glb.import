@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/buttonSquare.glb-f495b616d1b20d6908b27d99972c8ec6.scn"
+path="res://.import/buttonSquare.glb-794a7bb47b94965c83b6ad1c757ad091.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/buttonSquare.glb"
-dest_files=[ "res://.import/buttonSquare.glb-f495b616d1b20d6908b27d99972c8ec6.scn" ]
+source_file="res://Assets/platformerkit/buttonSquare.glb"
+dest_files=[ "res://.import/buttonSquare.glb-794a7bb47b94965c83b6ad1c757ad091.scn" ]
 
 [params]
 

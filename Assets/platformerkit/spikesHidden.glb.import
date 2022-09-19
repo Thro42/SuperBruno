@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/spikesHidden.glb-5a653da74e7cfdb86e4410c65deb72fe.scn"
+path="res://.import/spikesHidden.glb-0813f70d2df6d214ae076f3f2854e60f.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/spikesHidden.glb"
-dest_files=[ "res://.import/spikesHidden.glb-5a653da74e7cfdb86e4410c65deb72fe.scn" ]
+source_file="res://Assets/platformerkit/spikesHidden.glb"
+dest_files=[ "res://.import/spikesHidden.glb-0813f70d2df6d214ae076f3f2854e60f.scn" ]
 
 [params]
 

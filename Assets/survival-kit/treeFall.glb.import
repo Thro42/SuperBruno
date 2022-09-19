@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/treeFall.glb-a0b7983cba262ccdfecdfb0d9a0348aa.scn"
+path="res://.import/treeFall.glb-1c345f512c799bd04eba58dd6dec92ac.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/treeFall.glb"
-dest_files=[ "res://.import/treeFall.glb-a0b7983cba262ccdfecdfb0d9a0348aa.scn" ]
+source_file="res://Assets/survival-kit/treeFall.glb"
+dest_files=[ "res://.import/treeFall.glb-1c345f512c799bd04eba58dd6dec92ac.scn" ]
 
 [params]
 

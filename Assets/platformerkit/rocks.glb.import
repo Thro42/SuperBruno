@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/rocks.glb-8e7af1a2cf1aa95ba12a418ca70f67ed.scn"
+path="res://.import/rocks.glb-36b27394fad8dc4581488148dd22f803.scn"
 
 [deps]
 
-source_file="res://Assets/platformerkit/Models/GLTF format/rocks.glb"
-dest_files=[ "res://.import/rocks.glb-8e7af1a2cf1aa95ba12a418ca70f67ed.scn" ]
+source_file="res://Assets/platformerkit/rocks.glb"
+dest_files=[ "res://.import/rocks.glb-36b27394fad8dc4581488148dd22f803.scn" ]
 
 [params]
 

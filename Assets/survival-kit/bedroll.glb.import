@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/bedroll.glb-7c47a5a6c6202bca97295f2d63bf0c0a.scn"
+path="res://.import/bedroll.glb-7cf5c3d63087363cc439f5ce2e1deb37.scn"
 
 [deps]
 
-source_file="res://Assets/survival-kit/Models/GLTF format/bedroll.glb"
-dest_files=[ "res://.import/bedroll.glb-7c47a5a6c6202bca97295f2d63bf0c0a.scn" ]
+source_file="res://Assets/survival-kit/bedroll.glb"
+dest_files=[ "res://.import/bedroll.glb-7cf5c3d63087363cc439f5ce2e1deb37.scn" ]
 
 [params]
 

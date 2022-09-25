@@ -1,4 +1,4 @@
-[gd_scene load_steps=12 format=2]
+[gd_scene load_steps=13 format=2]
 
 [ext_resource path="res://Level1.tscn" type="PackedScene" id=1]
 [ext_resource path="res://character.tscn" type="PackedScene" id=2]
@@ -6,6 +6,7 @@
 [ext_resource path="res://coinGold.tscn" type="PackedScene" id=4]
 [ext_resource path="res://spikes.tscn" type="PackedScene" id=5]
 [ext_resource path="res://Level2.tscn" type="PackedScene" id=6]
+[ext_resource path="res://chaman.tscn" type="PackedScene" id=7]
 
 [sub_resource type="SpatialMaterial" id=1]
 albedo_color = Color( 0.211765, 0.721569, 0.505882, 1 )
@@ -16,26 +17,15 @@ material = SubResource( 1 )
 [sub_resource type="ConcavePolygonShape" id=3]
 data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1 )
 
-[sub_resource type="BoxShape" id=4]
-extents = Vector3( 1, 1.39724, 1 )
+[sub_resource type="BoxShape" id=6]
 
 [sub_resource type="BoxShape" id=5]
 
 [node name="Spatial" type="Spatial"]
 script = ExtResource( 3 )
 
-[node name="Ground" type="StaticBody" parent="."]
-
-[node name="MeshInstance" type="MeshInstance" parent="Ground"]
-transform = Transform( 20, 0, 0, 0, 0.5, 0, 0, 0, 20, 0, 0, 0 )
-mesh = SubResource( 2 )
-
-[node name="CollisionShape" type="CollisionShape" parent="Ground"]
-transform = Transform( 20, 0, 0, 0, 1, 0, 0, 0, 20, 0, -0.386602, 0 )
-shape = SubResource( 3 )
-
 [node name="character" parent="." instance=ExtResource( 2 )]
-transform = Transform( -4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, -5.981, 1.80022, 0 )
+transform = Transform( 0.0654795, 0, 0.495694, 0, 0.5, 0, -0.495694, 0, 0.0654795, -4.90089, 0.442931, 0 )
 
 [node name="score" type="Label" parent="."]
 margin_right = 40.0
@@ -47,6 +37,19 @@ margin_right = 1025.0
 margin_bottom = 14.0
 text = "HP: 100"
 align = 2
+
+[node name="chaman" parent="." instance=ExtResource( 7 )]
+transform = Transform( -1, 0, 1.50996e-07, -1.78654e-08, 0.992976, -0.118317, -1.49935e-07, -0.118317, -0.992976, 0, 0.5, 0 )
+
+[node name="Ground" type="StaticBody" parent="."]
+
+[node name="MeshInstance" type="MeshInstance" parent="Ground"]
+transform = Transform( 20, 0, 0, 0, 0.5, 0, 0, 0, 20, 0, 0, 0 )
+mesh = SubResource( 2 )
+
+[node name="CollisionShape" type="CollisionShape" parent="Ground"]
+transform = Transform( 20, 0, 0, 0, 1, 0, 0, 0, 20, 0, -0.386602, 0 )
+shape = SubResource( 3 )
 
 [node name="Level1Holder" type="Spatial" parent="."]
 visible = false
@@ -62,8 +65,8 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.99318, 4.5562, 1.99015 )
 [node name="Area" type="Area" parent="Level1Holder"]
 
 [node name="CollisionShape" type="CollisionShape" parent="Level1Holder/Area"]
-transform = Transform( 20, 0, 0, 0, 3, 0, 0, 0, 20, 0, 3.72587, 0 )
-shape = SubResource( 4 )
+transform = Transform( 50, 0, 0, 0, 3, 0, 0, 0, 50, 0, 3.72587, 0 )
+shape = SubResource( 6 )
 
 [node name="finish" type="Area" parent="Level1Holder"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -1.24688, 5.53859, 2.05777 )
@@ -79,5 +82,6 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -7.11695, 0, 0 )
 
 [connection signal="body_entered" from="Level1Holder/spikes" to="." method="_on_spikes_body_entered"]
 [connection signal="body_entered" from="Level1Holder/coinGold" to="." method="_on_coinGold_body_entered"]
+[connection signal="body_entered" from="Level1Holder/Area" to="chaman" method="_on_Area_body_entered"]
 [connection signal="body_exited" from="Level1Holder/Area" to="." method="_on_Area_body_exited"]
 [connection signal="body_entered" from="Level1Holder/finish" to="." method="_on_finish_body_entered"]

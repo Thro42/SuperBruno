@@ -70,4 +70,4 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.77268, 8.7075, 5.10221 )
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 4.77268, 8.7075, -4.39779 )
 
 [node name="Bridge_Small" parent="." instance=ExtResource( 2 )]
-transform = Transform( -4.37114e-08, 0, 1, 0, 1, 0, -1, 0, -4.37114e-08, 4.5, 10.5, 0.5 )
+transform = Transform( -4.37114e-08, 0, 1.5, 0, 1, 0, -1, 0, -6.55671e-08, 4.5, 10.5, 0.5 )

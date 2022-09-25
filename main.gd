@@ -2,8 +2,11 @@ extends Spatial
 var c = 0
 var score = 0
 var hp = 150
-
+var speed = 10
 func _process(delta):
+	var target_position = -$character.global_transform.origin
+	var new_transform = $chaman.transform.looking_at(target_position, Vector3.UP)
+	$chaman.transform = $chaman.transform.interpolate_with(new_transform, speed * delta * 5)
 	if hp <= 0:
 		print("YOU LOST")
 

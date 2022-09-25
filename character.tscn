@@ -2,7 +2,7 @@
 
 [ext_resource path="res://character.gd" type="Script" id=1]
 [ext_resource path="res://Assets/characters/Skins/Source/criminalMaleA.svg" type="Texture" id=2]
-[ext_resource path="res://bruno2.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Bruno.tscn" type="PackedScene" id=3]
 
 [sub_resource type="SphereMesh" id=1]
 radius = 0.5
@@ -11,7 +11,7 @@ radius = 0.5
 albedo_texture = ExtResource( 2 )
 
 [sub_resource type="BoxShape" id=5]
-extents = Vector3( 1.44569, 1.83741, 1 )
+extents = Vector3( 2.42751, 1.69523, 1 )
 
 [sub_resource type="PrismMesh" id=3]
 
@@ -37,5 +37,5 @@ mesh = SubResource( 3 )
 [node name="Camera" type="Camera" parent="."]
 transform = Transform( 1, 0, 0, 0, 0.987879, 0.155228, 0, -0.155228, 0.987879, 0, 7.24286, 8.6095 )
 
-[node name="bruno" parent="." instance=ExtResource( 3 )]
-transform = Transform( -1, 0, 1.50996e-07, 0, 1, 0, -1.50996e-07, 0, -1, 0, 0, 0 )
+[node name="BRUNO" parent="." instance=ExtResource( 3 )]
+transform = Transform( -1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0, 0 )

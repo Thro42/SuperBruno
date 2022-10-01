@@ -21,6 +21,7 @@ func fire():
 func get_input():
 	if Input.is_action_just_pressed("fire"):
 		fire()
+		print("hallo")
 	
 	
 	

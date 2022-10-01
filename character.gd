@@ -22,6 +22,7 @@ func _physics_process(delta):
 		jumping = true
 	if jumping and !is_on_floor():
 		$BRUNO/AnimationPlayer.play("Jump_Idle")
+		can_move = false
 	if jumping and is_on_floor():
 		$BRUNO/AnimationPlayer.play("Jump_Land")
 		jumping = false

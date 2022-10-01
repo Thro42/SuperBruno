@@ -1,4 +1,4 @@
-[gd_scene load_steps=9 format=2]
+[gd_scene load_steps=10 format=2]
 
 [ext_resource path="res://Assets/characters/Model/lambert2.material" type="Material" id=1]
 [ext_resource path="res://Assets/characters/Model/lambert1.material" type="Material" id=2]
@@ -51,9 +51,12 @@ surfaces/0 = {
 }
 
 [sub_resource type="SphereShape" id=4]
-radius = 0.618076
+radius = 0.551028
+
+[sub_resource type="BoxShape" id=5]
 
 [node name="dragon_ball" type="Area"]
+transform = Transform( 100, 0, 0, 0, 100, 0, 0, 0, 100, 0, 0, 0 )
 script = ExtResource( 4 )
 
 [node name="Sketchfab_model" type="Spatial" parent="."]
@@ -85,4 +88,11 @@ shape = SubResource( 4 )
 one_shot = true
 autostart = true
 
+[node name="target_ball" type="Area" parent="."]
+
+[node name="CollisionShape" type="CollisionShape" parent="target_ball"]
+transform = Transform( 10, 0, 0, 0, 10, 0, 0, 0, 10, 0, 0, 0 )
+shape = SubResource( 5 )
+
 [connection signal="body_entered" from="." to="." method="_on_dragon_ball_body_entered"]
+[connection signal="body_entered" from="target_ball" to="." method="_on_target_ball_body_entered"]

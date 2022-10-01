@@ -7,12 +7,15 @@
 radius = 0.937998
 height = 1.90368
 
-[node name="chaman_ti-pche_3_animations" instance=ExtResource( 1 )]
+[node name="chaman" instance=ExtResource( 1 )]
 transform = Transform( -1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0, 0, 0 )
 script = ExtResource( 2 )
 
 [node name="Object_8" type="Spatial" parent="Sketchfab_model/87a54da4be2a47f4b38bea69c6bd2b9ffbx/Object_2/RootNode/Ti-Pche_Rig/Object_6/Skeleton" index="1"]
 transform = Transform( 100, 0, 0, 0, 0, 100, 0, -100, 0, 0, 0, 0 )
+
+[node name="AnimationPlayer" parent="." index="1"]
+autoplay = "Walk_Cycle"
 
 [node name="CollisionShape" type="CollisionShape" parent="." index="2"]
 transform = Transform( 1, 0, 0, 0, -0.0017802, 0.999998, 0, -0.999998, -0.0017802, 0, 1.74227, 0.0733585 )
@@ -20,3 +23,9 @@ shape = SubResource( 1 )
 
 [node name="Position3D" type="Position3D" parent="." index="3"]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.991863, 1.36971, 1.49567 )
+
+[node name="RayCast" type="RayCast" parent="." index="4"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2.24731, 0 )
+enabled = true
+cast_to = Vector3( 0, 0, 5 )
+collision_mask = 3

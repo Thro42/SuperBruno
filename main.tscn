@@ -25,7 +25,10 @@ data = PoolVector3Array( -1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1
 script = ExtResource( 3 )
 
 [node name="character" parent="." instance=ExtResource( 2 )]
-transform = Transform( 0.0654795, 0, 0.495694, 0, 0.5, 0, -0.495694, 0, 0.0654795, -4.90089, 0.442931, 0 )
+transform = Transform( 0.130959, 0, 0.991388, 0, 1, 0, -0.991388, 0, 0.130959, -4.901, 0.5, 0 )
+
+[node name="target" type="Spatial" parent="character"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.962892, 0 )
 
 [node name="score" type="Label" parent="."]
 margin_right = 40.0
@@ -37,9 +40,6 @@ margin_right = 1025.0
 margin_bottom = 14.0
 text = "HP: 100"
 align = 2
-
-[node name="chaman" parent="." instance=ExtResource( 7 )]
-transform = Transform( -1, 0, 1.50996e-07, -1.78654e-08, 0.992976, -0.118317, -1.49935e-07, -0.118317, -0.992976, 0, 0.5, 0 )
 
 [node name="Ground" type="StaticBody" parent="."]
 
@@ -65,7 +65,7 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 1.99318, 4.5562, 1.99015 )
 [node name="Area" type="Area" parent="Level1Holder"]
 
 [node name="CollisionShape" type="CollisionShape" parent="Level1Holder/Area"]
-transform = Transform( 50, 0, 0, 0, 3, 0, 0, 0, 50, 0, 3.72587, 0 )
+transform = Transform( 95, 0, 0, 0, 100, 0, 0, 0, 100, 0, 18.5099, 0 )
 shape = SubResource( 6 )
 
 [node name="finish" type="Area" parent="Level1Holder"]
@@ -80,8 +80,10 @@ shape = SubResource( 5 )
 [node name="Level2" parent="Level2Holder" instance=ExtResource( 6 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -7.11695, 0, 0 )
 
+[node name="chaman" parent="." instance=ExtResource( 7 )]
+transform = Transform( -1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0, 0.5, 0 )
+
 [connection signal="body_entered" from="Level1Holder/spikes" to="." method="_on_spikes_body_entered"]
 [connection signal="body_entered" from="Level1Holder/coinGold" to="." method="_on_coinGold_body_entered"]
 [connection signal="body_entered" from="Level1Holder/Area" to="chaman" method="_on_Area_body_entered"]
-[connection signal="body_exited" from="Level1Holder/Area" to="." method="_on_Area_body_exited"]
 [connection signal="body_entered" from="Level1Holder/finish" to="." method="_on_finish_body_entered"]
